@@ -17,4 +17,3 @@ Clone the repository to your local machine.
 Install the necessary dependencies mentioned in the requirements.txt file.
 Run the script using Jupyter Notebook.
 View the console output to see the extracted details.
-Optionally, customize the script to suit your specific requirements.
